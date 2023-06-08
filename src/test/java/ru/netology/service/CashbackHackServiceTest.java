@@ -1,6 +1,6 @@
 package ru.netology.service;
 
-public class CashbackServiceTest {
+public class CashbackHackServiceTest {
 
     @org.junit.Test
     public void shouldAddAmountIfLess1000() {
